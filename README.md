@@ -1,6 +1,6 @@
 # TECHIN510-lab2
 # Iris Flower Explorer🌸
-A data analysis application to find oyt interesting insights about Iris🌸.
+A data analysis application to find out interesting insights about Iris🌸.
 
 ## Get Started
 ```
